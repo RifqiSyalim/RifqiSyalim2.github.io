@@ -7,5 +7,7 @@
 
 <p align="justify"> Tema yang diangkat dalam game dengan genre clicker ini memang terbilang sederhana, pengguna mendapat tugas untuk mengelola sebuah bisnis penjualan kudapan tahu bulat yang kelihatannya cukup lezat cukup dengan menggunakan manajemen sederhana dan ketukan jari di atas layar saja.</p>
 
+<p align="justify"> Data dari AppAnnie menunjukkan bahwa game Tahu Bulat berhasil mencapai satu juta unduhan sejak diluncurkan pada 14 Mei 2016. Tentunya angka ini termasuk viral bagi developer game lokal. Dari viralitas yang diciptakan, tentunya ada rahasia dalam meracik game yang bisa diterima banyak masyarakat. Untuk hal ini, CEO dan co-founder Own Games, Eldwin Viriya, berbagi ceritanya kepada Tech in Asia. </p>
+
 </body>
 </html>
