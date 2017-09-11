@@ -1,5 +1,4 @@
-<html>
-<body>
+
 # TAHU BULAT DIGORENG DADAKAN
 <p align="center"><img src="https://user-images.githubusercontent.com/30854434/30254949-1f65e6f0-96c9-11e7-9308-35eb37a2e185.jpg"></p>
 
@@ -12,5 +11,3 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/30854434/30259866-fc569b26-96ed-11e7-8f42-052d3cf90f4e.jpg
 "</p>
 
-</body>
-</html>
