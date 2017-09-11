@@ -1,4 +1,4 @@
-<center><h1>TAHU BULAT DIGORENG DADAKAN</h1></center>
+<p align="center"><b>TAHU BULAT DIGORENG DADAKAN</b></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30854434/30254949-1f65e6f0-96c9-11e7-9308-35eb37a2e185.jpg"></p>
 
