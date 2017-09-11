@@ -8,6 +8,5 @@
 
 <p align="justify"> Data dari AppAnnie menunjukkan bahwa game Tahu Bulat berhasil mencapai satu juta unduhan sejak diluncurkan pada 14 Mei 2016. Tentunya angka ini termasuk viral bagi developer game lokal. Dari viralitas yang diciptakan, tentunya ada rahasia dalam meracik game yang bisa diterima banyak masyarakat. Untuk hal ini, CEO dan co-founder Own Games, Eldwin Viriya, berbagi ceritanya kepada Tech in Asia. </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30259866-fc569b26-96ed-11e7-8f42-052d3cf90f4e.jpg
-"</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30260118-acf5714a-96ef-11e7-901a-fc2a6c7a1d05.jpg"></p>
 
