@@ -10,3 +10,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30854434/30260118-acf5714a-96ef-11e7-901a-fc2a6c7a1d05.jpg"></p>
 
+<p align="justify"> Ide pembuatan game memang dapat berasal dari mana saja, termasuk game Tahu Bulat ini. Eldwin mengatakan bahwa developer game lokal memang harus lebih menaruh perhatian lebih mendetail tentang meme atau hal yang viral di Internet dan masyarakat.</p>
+
+<p align="justify">Ia menambahkan bahwa konsep game untuk masyarakat lokal memang harus menghibur penggunanya. “Tidak ada yang salah dengan menangkap ide dari meme, selama game tersebut menghibur pengguna yang dituju,” kata Eldwin.</p>
