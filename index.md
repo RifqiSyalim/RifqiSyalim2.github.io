@@ -1,6 +1,8 @@
 <p align="center"><b>TAHU BULAT DIGORENG DADAKAN</b></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30254949-1f65e6f0-96c9-11e7-9308-35eb37a2e185.jpg"></p>
+<div align="center"><img src="https://user-images.githubusercontent.com/30854434/30254949-1f65e6f0-96c9-11e7-9308-35eb37a2e185.jpg" />
+<p>Tahu Bulat</p>
+</div>
 
 # DESIGNER
 
@@ -14,7 +16,9 @@
 
 <p align="justify">Ia menambahkan bahwa konsep game untuk masyarakat lokal memang harus menghibur penggunanya. “Tidak ada yang salah dengan menangkap ide dari meme, selama game tersebut menghibur pengguna yang dituju,” kata Eldwin.</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30260118-acf5714a-96ef-11e7-901a-fc2a6c7a1d05.jpg"></p>
+<div align="center"><img src="https://user-images.githubusercontent.com/30854434/30260118-acf5714a-96ef-11e7-901a-fc2a6c7a1d05.jpg" />
+<p>Tahu Bulat VS Clash of Clans</p>
+</div>
 
 # PLAYER
 <p align="justify"> Game Tahu Bulat tengah populer di kalangan para pencinta game. Kehadiran game tersebut mirip dengan Duel Otak yang dahulu secara cepat populer di kalangan gamer. Bahkan pada 26 Mei 2016, Tahu Bulat sempat menduduki peringkat pertama di Playstore dengan mengalahkan Clash of Clans. </p>
